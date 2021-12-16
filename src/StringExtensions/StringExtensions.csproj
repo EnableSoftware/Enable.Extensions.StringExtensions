@@ -14,7 +14,7 @@
     <Copyright>Copyright © Enable</Copyright>
     <PackageProjectUrl>https://github.com/EnableSoftware/Enable.Extensions.StringExtensions</PackageProjectUrl>
     <PackageIconUrl>https://github.com/EnableSoftware.png</PackageIconUrl>
-    <PackageLicenseUrl>https://raw.githubusercontent.com/EnableSoftware/Enable.Extensions.StringExtensions/master/LICENSE</PackageLicenseUrl>
+    <PackageLicenseUrl>https://raw.githubusercontent.com/EnableSoftware/Enable.Extensions.StringExtensions/main/LICENSE</PackageLicenseUrl>
     <RepositoryUrl>https://github.com/EnableSoftware/Enable.Extensions.StringExtensions</RepositoryUrl>
   </PropertyGroup>
 
